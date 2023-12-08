@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: antiquewhite;
+    background-color: rgb(124, 124, 121);
 }
 
 .content {
@@ -23,5 +23,5 @@ body {
     align-items: flex-start;
     width: 100%;
     border-bottom: 1px solid grey;
-    color: red;
+    color: rgb(114, 17, 87);
 }
